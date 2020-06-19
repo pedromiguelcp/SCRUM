@@ -1,0 +1,16 @@
+USE ScrumTableDB
+GO
+
+DELETE FROM [ScrumTableDB].[dbo].[Project]
+
+USE ScrumTableDB
+GO
+
+CREATE TABLE Sprint (
+    Sprint_ID INT IDENTITY (1, 1),
+    Sprint_Name VARCHAR (50) NOT NULL,
+	Sprint_DeadLine VARCHAR (50) NOT NULL,
+	ProjectID INT NOT NULL
+);
+
+ter cuidado pq cada vez q faço getinstance é criada uma nova instancia e posso perder os parametros

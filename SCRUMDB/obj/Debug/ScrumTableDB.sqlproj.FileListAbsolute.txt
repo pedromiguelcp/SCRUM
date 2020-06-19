@@ -1,0 +1,9 @@
+C:\Users\pedro\Desktop\4Ano\TSI\GPSI\Project\Scrum-Table-master\ScrumBoardWithMetroForm\SCRUMDB\bin\Debug\ScrumTableDB.dacpac
+C:\Users\pedro\Desktop\4Ano\TSI\GPSI\Project\Scrum-Table-master\ScrumBoardWithMetroForm\SCRUMDB\bin\Debug\SCRUMDB.dll
+C:\Users\pedro\Desktop\4Ano\TSI\GPSI\Project\Scrum-Table-master\ScrumBoardWithMetroForm\SCRUMDB\bin\Debug\SCRUMDB.pdb
+C:\Users\pedro\Desktop\4Ano\TSI\GPSI\Project\Scrum-Table-master\ScrumBoardWithMetroForm\SCRUMDB\obj\Debug\Model.xml
+C:\Users\pedro\Desktop\4Ano\TSI\GPSI\Project\Scrum-Table-master\ScrumBoardWithMetroForm\SCRUMDB\obj\Debug\refactor.xml
+C:\Users\pedro\Desktop\4Ano\TSI\GPSI\Project\Scrum-Table-master\ScrumBoardWithMetroForm\SCRUMDB\obj\Debug\postdeploy.sql
+C:\Users\pedro\Desktop\4Ano\TSI\GPSI\Project\Scrum-Table-master\ScrumBoardWithMetroForm\SCRUMDB\obj\Debug\predeploy.sql
+C:\Users\pedro\Desktop\4Ano\TSI\GPSI\Project\Scrum-Table-master\ScrumBoardWithMetroForm\SCRUMDB\obj\Debug\SCRUMDB.dll
+C:\Users\pedro\Desktop\4Ano\TSI\GPSI\Project\Scrum-Table-master\ScrumBoardWithMetroForm\SCRUMDB\obj\Debug\SCRUMDB.pdb
